@@ -13,4 +13,4 @@ Write-Output "`n >> Hi I'm Here ..." | yellow
 Write-Output "`n >> Successfully Executed the PowerShell Script ..." | green
 
 ipconfig.exe
-arp -a
+ARP.EXE -a
